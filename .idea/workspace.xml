@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fb6191e1-f56a-4a01-9dac-376a950d0f0d" name="Default Changelist" comment="" />
+    <list default="true" id="fb6191e1-f56a-4a01-9dac-376a950d0f0d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/resources/views/subjects/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -143,6 +148,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -160,11 +171,21 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1600392803906</updated>
-      <workItem from="1600392805154" duration="853000" />
+      <workItem from="1600392805154" duration="1988000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1997" y="196" width="307" height="207" key="Github.ShareDialog" timestamp="1600393708467">
+      <screen x="1366" y="0" width="1440" height="900" />
+    </state>
+    <state x="1997" y="196" width="307" height="207" key="Github.ShareDialog/0.27.1366.741/1366.0.1440.900@1366.0.1440.900" timestamp="1600393708467" />
+    <state x="1812" y="137" width="537" height="633" key="Github.UntrackedFilesDialog" timestamp="1600393729632">
+      <screen x="1366" y="0" width="1440" height="900" />
+    </state>
+    <state x="1812" y="137" width="537" height="633" key="Github.UntrackedFilesDialog/0.27.1366.741/1366.0.1440.900@1366.0.1440.900" timestamp="1600393729632" />
   </component>
 </project>
